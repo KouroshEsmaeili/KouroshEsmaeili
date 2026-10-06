@@ -1,16 +1,20 @@
-## Hi there 👋
+# Kourosh Esmaeili
 
-<!--
-**KouroshEsmaeili/KouroshEsmaeili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Engineer at **Basir Tech**, with interests in **computer vision, deep learning, optimization, algorithms, mathematics, and research engineering**.
 
-Here are some ideas to get you started:
+I have completed my Master's degree and enjoy building technically rigorous, reproducible software at the intersection of machine learning and applied mathematics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected work
+
+- [MDE Transformers](https://github.com/KouroshEsmaeili/MDE-transformers) — transformer-based monocular metric depth estimation
+- [Learning-Augmented TSP](https://github.com/KouroshEsmaeili/learning-augmented-tsp) — machine learning, optimization, and classical algorithms for Euclidean TSP
+- [HallThruster](https://github.com/KouroshEsmaeili/HallThruster) — Python translation and numerical validation of scientific simulation software
+- [Raster Registration Toolkit](https://github.com/KouroshEsmaeili/raster-registration-toolkit) — feature-based image registration and satellite orthorectification
+
+### Interests
+
+Machine Learning · Computer Vision · Optimization · Algorithms · Applied Mathematics · Research Software Engineering
+
+### Contact
+
+[k.esmaeili.dev@gmail.com](mailto:k.esmaeili.dev@gmail.com)
